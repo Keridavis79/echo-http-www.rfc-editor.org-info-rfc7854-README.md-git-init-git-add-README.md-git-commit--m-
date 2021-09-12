@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Keridavis79/http-www.rfc-editor.org-info-rfc7854.git
+git branch -M main
+git push -u origin main
